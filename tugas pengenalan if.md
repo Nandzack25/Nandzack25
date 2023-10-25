@@ -40,8 +40,17 @@ Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [htt
 
 ```mermaid
 erDiagram
-    RUJAK ||--o{ SAYUR : tersusun
-    PEMBELI ||--|{ RUJAK : beli
+  Pengguna{
+    String username_pengguna
+    String Password_penguna
+    int ID_pengguna
+    String email_pengguna
+  }
+
+    Pengguna_lain{
+        String username_pengguna
+        String ID_pengguna
+    }
 ```
 
 ## 4. Arsitektur Sistem
