@@ -3,11 +3,16 @@
 Pada masa sekarang ini banyak sekali orang orang yang ingin belajar tentang dunia coding akan tetap bingung harus mulai dari mana , harus pakai apa dan bagaimana cara melakukannnya. Biasanya orang orang yang belajar otodidak akan mengalami kesultan saat menemui masalah seperti code salah , ada code yang kurang atau hal hal lainya bingung harus melakukan apa ,bertanya pada siapa dan harus mencari referensi dari mana. hal hal tersebut akan menjadi penghambat bagi orang orang yang belajar secara otodidak hal itu akan dipermudah dengan menggunakan aplikasi ini.
 
 ## 1.2. Deksripsi Teknologi Informasi
-    
+
+Tujuan aplikasi Diacode ini dibuat untuk mempermudah pengguna dalam belajar seputar dunia coding, dimana dalam aplikasi ini pengguna dapat membuat forum, diskusi dan saling tanya jawab tentang hal hal spesfik, misalnya tentang web development , penggua dapat membuat forum khusus untuk membahas hal hal yang terkait dengan web development ,pengguna bisa saling mengikuti ,saling tanya jawab ataupun berbagi ilmu secara langsung dalam forum forum tersebut.
 
 ## 1.3. Branding
 
-bla bla bla
+Merk        : DiaCode
+
+Tagline     : Ubah dunia dari Keyboardmu
+
+Campaign    : Aplikasi yang membuat pengguna mudah dalam belajar coding , bertanya seputar coding dan dan Mendiskusikannya. 
 
 ## 2. User Story
 
