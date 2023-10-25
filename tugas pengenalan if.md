@@ -7,18 +7,32 @@ Pada masa sekarang ini banyak sekali orang orang yang ingin belajar tentang duni
 Tujuan aplikasi Diacode ini dibuat untuk mempermudah pengguna dalam belajar seputar dunia coding, dimana dalam aplikasi ini pengguna dapat membuat forum, diskusi dan saling tanya jawab tentang hal hal spesfik, misalnya tentang web development , penggua dapat membuat forum khusus untuk membahas hal hal yang terkait dengan web development ,pengguna bisa saling mengikuti ,saling tanya jawab ataupun berbagi ilmu secara langsung dalam forum forum tersebut.
 
 ## 1.3. Branding
+Branding :
+- Merk        : DiaCode
+- Tagline     : Ubah dunia dari Keyboardmu
+- Campaign    : Aplikasi yang membuat pengguna mudah dalam belajar coding , bertanya seputar coding dan dan Mendiskusikannya. 
 
-Merk        : DiaCode
+Target user:
+- Usia 12+(Siapapun, tapi di bawah umur itu perlu pengawasan orang tua)
+- Siapa saja yang ingin belajar Coding
+- Orang yang ingin membagikan ilmunya
+- Orang yang ingin mempromosikan hasil codingannya.
 
-Tagline     : Ubah dunia dari Keyboardmu
+User excperience :
+- Mudah saling membantu
+- sederhana
+- tema gelap
 
-Campaign    : Aplikasi yang membuat pengguna mudah dalam belajar coding , bertanya seputar coding dan dan Mendiskusikannya. 
 
 ## 2. User Story
 
-bla | bla | bla | bla
+Sebagai | Saya ingin bisa | Sehingga | Prioritas
 ---|---|---|---
-bla | bla | bla | ⭐⭐⭐⭐⭐
+| Pengguna | Bertanya tentang error kodingan saya | Ada interaksi dengan pengguna lain  | ⭐⭐⭐⭐⭐
+| Pengguna | Mencari teman baru | bisa mendiskusikan sebuah permasalahan  | ⭐⭐⭐
+| Pengguna | Membagikan ilmu dan pengalaman saya | Orang lain dapat beajar hal-hal baru | ⭐⭐⭐⭐⭐
+| Pengguna | Membantu orang  lain dalam menyelesaikan permasalahan | Orang lain terbantu | ⭐⭐⭐⭐
+
 
 ## 3. Struktur Data
 
