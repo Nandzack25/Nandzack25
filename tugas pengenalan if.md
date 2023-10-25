@@ -1,10 +1,9 @@
 ## 1.1 Latar Belakang
 
-bla bla bla
+    Pada masa sekarang ini banyak sekali orang orang yang ingin belajar tentang dunia coding akan tetap bingung harus mulai dari mana , harus pakai apa dan bagaimana cara melakukannnya. Biasanya orang orang yang belajar otodidak akan mengalami kesultan saat menemui masalah seperti code salah , ada code yang kurang atau hal hal lainya bingung harus melakukan apa ,bertanya pada siapa dan harus mencari referensi dari mana. hal hal tersebut akan menjadi penghambat bagi orang orang yang belajar secara otodidak hal itu akan dipermudah dengan menggunakan aplikasi ini.
 
 ## 1.2. Deksripsi Teknologi Informasi
-
-bla bla bla
+    
 
 ## 1.3. Branding
 
