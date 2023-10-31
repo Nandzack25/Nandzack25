@@ -1,14 +1,13 @@
 ## 1.1 Latar Belakang
 
-Pada masa sekarang ini banyak sekali orang orang yang ingin belajar tentang dunia coding akan tetap bingung harus mulai dari mana , harus pakai apa dan bagaimana cara melakukannnya. Biasanya orang orang yang belajar otodidak akan mengalami kesultan saat menemui masalah seperti code salah , ada code yang kurang atau hal hal lainya bingung harus melakukan apa ,bertanya pada siapa dan harus mencari referensi dari mana. hal hal tersebut akan menjadi penghambat bagi orang orang yang belajar secara otodidak hal itu akan dipermudah dengan menggunakan aplikasi ini.
+Pada masa sekarang ini Game sudah melekat pada sebagian besar manusia, dimana game sekarang  bukan hanya sebagai sarana hiburan akan tetapi juga sebagai Gaya hidup bahkan sebagian orang hidup dari penghasilan bermain game.Game Sin Frontera Dimana dengan latar belakang Abad pertengahan dalam dunia magis  yang memunculkan suasana,situasi,dan kondisi yang berubah ubah  menciptakan kemungkinan pengalaman bermain tak terbtas bagi para player dan membuat player merasakan game ini sebagai dunia "kedua" mereka.tujuan game ini dibuat untuk memuaskan para player bukan secara visual akan tetapi secara emosional dalam pemahaman karakter dan emosi yang meyakinkan.
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-Tujuan aplikasi Diacode ini dibuat untuk mempermudah pengguna dalam belajar seputar dunia coding, dimana dalam aplikasi ini pengguna dapat membuat forum, diskusi dan saling tanya jawab tentang hal hal spesfik, misalnya tentang web development , penggua dapat membuat forum khusus untuk membahas hal hal yang terkait dengan web development ,pengguna bisa saling mengikuti ,saling tanya jawab ataupun berbagi ilmu secara langsung dalam forum forum tersebut.
-
+Game ini dibuat dengan bertujuan untuk memberikan Pengalaman bermain yang sangat memuaskan bagi para player yang lebih khusunya lebih menyukai tipe RPG, game Story dan Strategic game , Game ini di usahakan akan bertema open world dalam game ada banyak class dan subclass yang dapat langsung di akses oleh palyer dan juga ada beberapa class yang memerlukan syarat khusus ,dimana setiap class memiliki fungsi,skill,gameplay,dan tujuan yang berbeda beda ,ini menciptakan pengalaman bermain bagi player yang sangat memukau dimana setiap player dapat memiliki classs dan sub class membuat banyak sekali kemungkinan gameplay  dengan mengkombinasikan class atau skill yang berbeda beda.
 ## 1.3. Branding
 Branding :
-- Merk        : DiaCode
+- Merk        : Sin frontera
 - Tagline     : Ubah dunia dari Keyboardmu
 - Campaign    : Aplikasi yang membuat pengguna mudah dalam belajar coding , bertanya seputar coding dan dan Mendiskusikannya. 
 
