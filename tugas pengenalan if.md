@@ -13,7 +13,7 @@ Branding :
 
 Target user:
 - Usia 12+
-- para player game yang mencari gameplay yang unik
+- para player game yang mencari gameplay yang unik 
   
 
 User excperience :
@@ -34,11 +34,11 @@ Sebagai | Saya ingin bisa | Sehingga | Prioritas
 | Pengguna | Karakter bisa melakukan interaksi dengan NPC | Bisa berinteraksi dengan NPC dalam mengambil quest atau hadiah | ⭐⭐⭐⭐⭐
 | Pengguna | Melawan Mob  | bisa melakukan pertarungan dengan mob/monster dalam game | ⭐⭐⭐⭐⭐
 | Pengguna | Mempunyai stat | Setiap karakter memiliki setiap aspek kekuatan yang berbeda tergantung stat karakter yang dimiliki   | ⭐⭐⭐⭐⭐
-| Pengguna |  Mempunyai Class | Player bisa memilih Class tertentu untuk karakternya | ⭐⭐⭐⭐⭐
-| Pengguna | Mempunyai skill  |  | ⭐⭐⭐⭐⭐
-| Pengguna |   |  | ⭐⭐⭐⭐⭐
-| Pengguna |   |  | ⭐⭐⭐⭐⭐
-| Pengguna |   |  | ⭐⭐⭐⭐⭐
+| Pengguna |  Mempunyai Class | Player bisa memilih Class tertentu untuk karakternya | ⭐⭐⭐⭐
+| Pengguna | Mempunyai skill  | Setiap class/job memiliki skill yang berbeda | ⭐⭐⭐⭐⭐
+| Pengguna | Mendapat item  | Bisa mendapatkan item setelah melawan monster atau setelah menyelesaikan quest | ⭐⭐⭐⭐⭐
+| Pengguna |  berteman dengan player lain | Bisa berteman dengan player lain | ⭐⭐⭐⭐
+| Pengguna | Melakukan PvP  | Bisa bertarung dengan player lain  | ⭐⭐⭐⭐⭐
 | Pengguna |   |  | ⭐⭐⭐⭐⭐
 | Pengguna |   |  | ⭐⭐⭐⭐⭐
 | Pengguna |   |  | ⭐⭐⭐⭐⭐
