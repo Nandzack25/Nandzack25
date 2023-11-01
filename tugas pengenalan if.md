@@ -4,53 +4,52 @@ Pada masa sekarang ini Game sudah melekat pada sebagian besar manusia, dimana ga
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-Game ini dibuat dengan bertujuan untuk memberikan Pengalaman bermain yang sangat memuaskan bagi para player yang lebih khusunya lebih menyukai tipe RPG, game Story dan Strategic game , Game ini di usahakan akan bertema open world dalam game ada banyak class dan subclass yang dapat langsung di akses oleh palyer dan juga ada beberapa class yang memerlukan syarat khusus ,dimana setiap class memiliki fungsi,skill,gameplay,dan tujuan yang berbeda beda ,ini menciptakan pengalaman bermain bagi player yang sangat memukau dimana setiap player dapat memiliki classs dan sub class membuat banyak sekali kemungkinan gameplay  dengan mengkombinasikan class atau skill yang berbeda beda.
+Game ini dibuat dengan bertujuan untuk memberikan Pengalaman bermain yang sangat memuaskan bagi para player yang lebih khusunya lebih menyukai tipe RPG, game Story dan Strategic game , Game ini di usahakan akan bertema open world dan dalam game ada banyak class dan subclass yang bisa didapatkan character yang bisa langsung di akses oleh palyer dan juga ada beberapa class yang memerlukan syarat khusus ,dimana setiap class memiliki fungsi,skill,gameplay,dan tujuan yang berbeda beda ,ini menciptakan pengalaman bermain bagi player yang sangat memukau dimana setiap player dapat memiliki class dan sub class membuat banyak sekali kemungkinan gameplay  dengan mengkombinasikan class atau skill yang berbeda beda.
 ## 1.3. Branding
 Branding :
-- Merk        : Sin frontera
-- Tagline     : Ubah dunia dari Keyboardmu
-- Campaign    : Aplikasi yang membuat pengguna mudah dalam belajar coding , bertanya seputar coding dan dan Mendiskusikannya. 
+- Merk        : Sin fronteras
+- Tagline     : expand yout limits
+- Campaign    : Menghadirkan Game RPG dengan Gameplay menarik dan unik,bukan hanya secara visual akan tetapi juga secara emosi Player dan                 gameplay
 
 Target user:
-- Usia 12+(Siapapun, tapi di bawah umur itu perlu pengawasan orang tua)
-- Siapa saja yang ingin belajar Coding
-- Orang yang ingin membagikan ilmunya
-- Orang yang ingin mempromosikan hasil codingannya.
+- Usia 12+
+- para player game yang mencari gameplay yang unik
+  
 
 User excperience :
-- Mudah saling membantu
-- sederhana
-- tema gelap
+- sederhana tapi juga rumit
+- tema game yang bersemangat
+- sangat memerlukan strategy
 
+Referensi:
 
 ## 2. User Story
 
 Sebagai | Saya ingin bisa | Sehingga | Prioritas
 ---|---|---|---
-| Pengguna | Bertanya tentang error kodingan saya | Ada interaksi dengan pengguna lain  | ⭐⭐⭐⭐⭐
-| Pengguna | Mencari teman baru | bisa mendiskusikan sebuah permasalahan  | ⭐⭐⭐
-| Pengguna | Membagikan ilmu dan pengalaman saya | Orang lain dapat beajar hal-hal baru | ⭐⭐⭐⭐⭐
-| Pengguna | Membantu orang  lain dalam menyelesaikan permasalahan | Orang lain terbantu | ⭐⭐⭐⭐
+| Pengguna | Mulai permainan | Permainan bisa dimulai  | ⭐⭐⭐⭐⭐
+| Pengguna | Desain karakter |  Bisa memiliki desain karakter yang beragam | ⭐⭐⭐
+| Pengguna | Menjelajahi map | Bisa mengexplore semua peta yang ada dalam game ini | ⭐⭐⭐⭐
+| Pengguna | Mendapat quest | Bisa menyelesaikan quest dan mendapat hadiah | ⭐⭐⭐⭐⭐
+| Pengguna | Karakter bisa melakukan interaksi dengan NPC | Bisa berinteraksi dengan NPC dalam mengambil quest atau hadiah | ⭐⭐⭐⭐⭐
+| Pengguna | Melawan Mob  | bisa melakukan pertarungan dengan mob/monster dalam game | ⭐⭐⭐⭐⭐
+| Pengguna | Mempunyai stat | Setiap karakter memiliki setiap aspek kekuatan yang berbeda tergantung stat karakter yang dimiliki   | ⭐⭐⭐⭐⭐
+| Pengguna |  Mempunyai Class | Player bisa memilih Class tertentu untuk karakternya | ⭐⭐⭐⭐⭐
+| Pengguna | Mempunyai skill  |  | ⭐⭐⭐⭐⭐
+| Pengguna |   |  | ⭐⭐⭐⭐⭐
+| Pengguna |   |  | ⭐⭐⭐⭐⭐
+| Pengguna |   |  | ⭐⭐⭐⭐⭐
+| Pengguna |   |  | ⭐⭐⭐⭐⭐
+| Pengguna |   |  | ⭐⭐⭐⭐⭐
+| Pengguna |   |  | ⭐⭐⭐⭐⭐
+
 
 
 ## 3. Struktur Data
 
 Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
 
-```mermaid
-erDiagram
-  Pengguna{
-    String username_pengguna
-    String Password_penguna
-    int ID_pengguna
-    String email_pengguna
-  }
 
-    Pengguna_lain{
-        String username_pengguna
-        String ID_pengguna
-    }
-```
 
 ## 4. Arsitektur Sistem
 
