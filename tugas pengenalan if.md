@@ -1,6 +1,6 @@
 ## 1.1 Latar Belakang
 
-Pada masa sekarang ini Game sudah melekat pada sebagian besar manusia, dimana game sekarang  bukan hanya sebagai sarana hiburan akan tetapi juga sebagai Gaya hidup bahkan sebagian orang hidup dari penghasilan bermain game.Game Sin Frontera Dimana dengan latar belakang Abad pertengahan dalam dunia magis  yang memunculkan suasana,situasi,dan kondisi yang berubah ubah  menciptakan kemungkinan pengalaman bermain tak terbtas bagi para player dan membuat player merasakan game ini sebagai dunia "kedua" mereka.tujuan game ini dibuat untuk memuaskan para player bukan secara visual akan tetapi secara emosional dalam pemahaman karakter dan emosi yang meyakinkan.
+Pada masa sekarang ini Game sudah melekat pada sebagian besar manusia, dimana game sekarang  bukan hanya sebagai sarana hiburan akan tetapi juga sebagai Gaya hidup bahkan sebagian orang hidup dari penghasilan bermain game.CONTOHNYA Dungeons & Dragons (D&D) dianggap sebagai permainan RPG (Role-Playing Game) pertama di dunia. D&D pertama kali diterbitkan pada 1974 oleh Gary Gygax dan Dave Arneson.Saya membuat Game Sin Frontera Dimana dengan latar belakang Abad pertengahan dalam dunia magis yang memunculkan suasana,situasi,dan kondisi yang berubah-ubah menciptakan kemungkinan pengalaman bermain tak terbtas bagi para player dan membuat player merasakan game ini sebagai dunia "kedua" mereka.tujuan game ini dibuat untuk memuaskan para player bukan secara visual akan tetapi secara emosional dalam pemahaman karakter dan emosi yang meyakinkan.
 
 ## 1.2. Deksripsi Teknologi Informasi
 
