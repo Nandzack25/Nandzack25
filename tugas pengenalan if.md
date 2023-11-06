@@ -48,7 +48,8 @@ Sebagai | Saya ingin bisa | Sehingga | Prioritas
 ## 3. Struktur Data
 
 Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
-''' mermaid
+
+```mermaid
 erDiagram
     
     Player{
@@ -63,7 +64,7 @@ erDiagram
         String Character_name
         int ID_Character
     }
-    JobCharacter{
+    Job{
         int ID_Job
         String Job_Name
     }
@@ -76,19 +77,31 @@ erDiagram
         int ID_Skill
         String Skill_Name
     }
+    NPC_Quest{
+        int ID_NPC
+        String Nama_NPC
+
+    }
+    
 
 
 
 
     Player }o..o{ Player: Berteman
     Player }o..|{ Character: memilih
-    Character ||..|{ JobCharacter: mempunyai
+    Character ||..|{ Job: mempunyai
     Player }|..o{ Chat_dengan_player_lain : melakukan
     Player }|..o{ Chat_dengan_player_lain : membalas
-    Skill }|..|{ JobCharacter: mempunyai
+    Skill }|..|{ Job: mempunyai
     Player }o..o{ Player: Melakukan_PvP
+    Player }o..o{ Player: Membuat_party
+    NPC_Quest||..|{ Job: mempunyai
+    NPC_Quest}o..o{ Player: Memberikan_Quest
+     NPC_Quest}o..o{ Player: Meminta_Quest
 
-'''
+
+
+```
 
 ## 4. Arsitektur Sistem
 
