@@ -28,17 +28,41 @@ Referensi:
 Sebagai | Saya ingin bisa | Sehingga | Prioritas
 ---|---|---|---
 | Pengguna | Mulai permainan | Permainan bisa dimulai  | ⭐⭐⭐⭐⭐
-| Pengguna | Desain karakter |  Bisa memiliki desain karakter yang beragam | ⭐⭐⭐
+| Pengguna | Desain karakter |  Bisa memiliki desain karakter yang beragam | ⭐⭐⭐⭐
+| Pengguna | Skill karakter | karakter memiliki skill khusunya masing masing | ⭐⭐⭐
 | Pengguna | Menjelajahi map | Bisa mengexplore semua peta yang ada dalam game ini | ⭐⭐⭐⭐
 | Pengguna | Mendapat quest | Bisa menyelesaikan quest dan mendapat hadiah | ⭐⭐⭐⭐⭐
-| Pengguna | Karakter bisa melakukan interaksi dengan NPC | Bisa berinteraksi dengan NPC dalam mengambil quest atau hadiah | ⭐⭐⭐⭐⭐
-| Pengguna | Melawan Mob  | bisa melakukan pertarungan dengan mob/monster dalam game | ⭐⭐⭐⭐⭐
+| Pengguna | Player bisa melakukan interaksi dengan NPC | Bisa berinteraksi dengan NPC dalam mengambil quest atau hadiah | ⭐⭐⭐⭐⭐
+| Pengguna | Melawan Mob/Monster  | bisa melakukan pertarungan dengan mob/monster dalam game | ⭐⭐⭐⭐⭐
+| Pengguna | Menaikan level | Player bisa menaikan level dengan mengalahkan monster Dan setiap naik level meningkatkan aspek-aspek tertentu dari karakter | ⭐⭐⭐⭐⭐
 | Pengguna | Mempunyai stat | Setiap karakter memiliki setiap aspek kekuatan yang berbeda tergantung stat karakter yang dimiliki   | ⭐⭐⭐⭐⭐
-| Pengguna |  Mempunyai Class | Player bisa memilih Class tertentu untuk karakternya | ⭐⭐⭐⭐
+| Pengguna |  Mempunyai Job/Class | Player bisa memilih Class tertentu untuk karakternya | ⭐⭐⭐⭐
+| Pengguna | Job/class mempunyai tingkatan | Setiap Job/class mempunyai tingkatan yang berbeda tergnatung kelangkaan, evolusi dan kekuatan | ⭐⭐⭐⭐
 | Pengguna | Mempunyai skill  | Setiap class/job memiliki skill yang berbeda | ⭐⭐⭐⭐⭐
 | Pengguna | Mendapat item  | Bisa mendapatkan item setelah melawan monster atau setelah menyelesaikan quest | ⭐⭐⭐⭐⭐
-| Pengguna |  berteman dengan player lain | Bisa berteman dengan player lain | ⭐⭐⭐⭐
+| Pengguna | berteman dengan player lain | Bisa berteman dengan player lain | ⭐⭐⭐⭐
 | Pengguna | Melakukan PvP  | Bisa bertarung dengan player lain  | ⭐⭐⭐⭐⭐
+| Pengguna | Melakukan Chat bisik | Bermaksud hanya chat dengan player tertentu| ⭐⭐⭐
+| Pengguna | Melakukan chat teriak | Bermaksud menChat semua player disekitar | ⭐⭐⭐
+| Pengguna | Mendapat gold | Bisa mendapat gold dari hadiah quest, mengalahkan monster ,dan transaksi dengan player lain | ⭐⭐⭐⭐
+| Pengguna | Menjual item | Player bisa menjual item yang dia dapatkan di Market atau transaksi langsung dengan plyer lain | ⭐⭐⭐⭐
+| Pengguna | Ada Market | Player dapat menjual langsung item mereka ke semua orang | ⭐⭐⭐
+| Pengguna |   |  | ⭐⭐⭐⭐⭐
+| Pengguna |   |  | ⭐⭐⭐⭐⭐
+| Pengguna |   |  | ⭐⭐⭐⭐⭐
+| Pengguna |   |  | ⭐⭐⭐⭐⭐
+| Pengguna |   |  | ⭐⭐⭐⭐⭐
+| Pengguna |   |  | ⭐⭐⭐⭐⭐
+| Pengguna |   |  | ⭐⭐⭐⭐⭐
+| Pengguna |   |  | ⭐⭐⭐⭐⭐
+| Pengguna |   |  | ⭐⭐⭐⭐⭐
+| Pengguna |   |  | ⭐⭐⭐⭐⭐
+| Pengguna |   |  | ⭐⭐⭐⭐⭐
+| Pengguna |   |  | ⭐⭐⭐⭐⭐
+| Pengguna |   |  | ⭐⭐⭐⭐⭐
+| Pengguna |   |  | ⭐⭐⭐⭐⭐
+| Pengguna |   |  | ⭐⭐⭐⭐⭐
+| Pengguna |   |  | ⭐⭐⭐⭐⭐
 | Pengguna |   |  | ⭐⭐⭐⭐⭐
 | Pengguna |   |  | ⭐⭐⭐⭐⭐
 | Pengguna |   |  | ⭐⭐⭐⭐⭐
