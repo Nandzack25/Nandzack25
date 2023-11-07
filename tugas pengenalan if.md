@@ -23,6 +23,14 @@ User excperience :
 
 Referensi:
 
+![images](https://github.com/Nandzack25/Nandzack25/assets/144807966/88912d4a-aa7b-4690-af9b-1883a73b9df6) 
+![download](https://github.com/Nandzack25/Nandzack25/assets/144807966/2bf29f29-71fe-41a1-84fe-fcd975164cb5)
+![images](https://github.com/Nandzack25/Nandzack25/assets/144807966/d25aa7db-365d-4c2c-934c-9696c4017be3)
+![18295948021619771942](https://github.com/Nandzack25/Nandzack25/assets/144807966/0e85ebbd-e498-4e9c-bab4-eddccd19eadf)
+![download](https://github.com/Nandzack25/Nandzack25/assets/144807966/74d54e1e-3098-4cb2-98f6-f7738014bbe0)
+![download](https://github.com/Nandzack25/Nandzack25/assets/144807966/f179e5d9-011c-422b-82b3-89486d87d509)
+
+
 ## 2. User Story
 
 Sebagai | Saya ingin bisa | Sehingga | Prioritas
@@ -78,17 +86,15 @@ erDiagram
     
     Player{
         String  Nickname_player
+        String  Email_Player
         String  Password_Player
         int     ID_Player
-        int     Gold
-
-
     }
     Character{
         String Character_name
         int ID_Character
     }
-    Job{
+    "Job/class"{
         int ID_Job
         String Job_Name
     }
@@ -104,24 +110,49 @@ erDiagram
     NPC_Quest{
         int ID_NPC
         String Nama_NPC
-
     }
-    
+    Monster{
+        int ID_Monster
+        String Nama_Monster
+    }
+    Item{
+        int ID_Item
+        String Nama_Item
+    }
+    Market{
+        int ID_Player_penjual
+        String Nickname_player_penjual
+        int ID_Player_pembeli
+        String Nickname_player_pembeli
+        int ID_Item
+        String Nama_Item
+        Int Harga_item
+    }
 
 
 
 
     Player }o..o{ Player: Berteman
     Player }o..|{ Character: memilih
-    Character ||..|{ Job: mempunyai
+    Character }o..|{ "Job/class": mempunyai
     Player }|..o{ Chat_dengan_player_lain : melakukan
     Player }|..o{ Chat_dengan_player_lain : membalas
-    Skill }|..|{ Job: mempunyai
+    Skill }|..|{ "Job/class": mempunyai
     Player }o..o{ Player: Melakukan_PvP
     Player }o..o{ Player: Membuat_party
-    NPC_Quest||..|{ Job: mempunyai
+    NPC_Quest||..|{ "Job/class": mempunyai
     NPC_Quest}o..o{ Player: Memberikan_Quest
-     NPC_Quest}o..o{ Player: Meminta_Quest
+    NPC_Quest}o..o{ Player: Meminta_Quest
+    Monster}o..o{ Player: "bisa bertarung melawan"
+    Monster}o..|{ "Job/class": mempunyai
+    Player }o..o{ Item: Mempunyai
+    NPC_Quest }o..o{ Item: Mempunyai
+    Monster }o..o{ Item: Mempunyai
+    Player }|..o{ Market: "Bisa menjual di" 
+    Player }|..o{ Market: "Bisa membeli di" 
+    Player }o..o{ Player: Transaksi
+    Character }o..|| Skill: mempunyai
+    
 
 
 
