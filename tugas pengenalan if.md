@@ -31,6 +31,8 @@ Referensi:
 ![download](https://github.com/Nandzack25/Nandzack25/assets/144807966/f179e5d9-011c-422b-82b3-89486d87d509)
 
 
+
+
 ## 2. User Story
 
 Sebagai | Saya ingin bisa | Sehingga | Prioritas
@@ -43,14 +45,14 @@ Sebagai | Saya ingin bisa | Sehingga | Prioritas
 | Pengguna | Karakter bergerak | Karakter dapat bergerak dalam map | ⭐⭐⭐⭐⭐
 | Pengguna | Karakter mati | Player dapat merasakan kekalahan | ⭐⭐⭐⭐
 | Pengguna | Ada penalty kematian | Apabaila Karakter mati mungkin beberapa Item milik Player hilang | ⭐⭐⭐
-| Pengguna | Ada checkpoint | Apabila karakter mati akan respawn di desa terakhir | ⭐⭐⭐⭐⭐
+| Pengguna | Ada checkpoint | Apabila karakter mati akan respawn di desa terakhir | ⭐⭐⭐⭐
 | Pengguna | Berpindah map | Player dapat berpindah pindah map kesatu dann yang lain | ⭐⭐⭐⭐
 | Pengguna | Menjelajahi map | Bisa mengexplore semua peta yang ada dalam game ini | ⭐⭐⭐⭐
 | Pengguna | Mendapat quest | Bisa menyelesaikan quest dan mendapat hadiah | ⭐⭐⭐⭐⭐
 | Pengguna | Player bisa melakukan interaksi dengan NPC | Bisa berinteraksi dengan NPC dalam mengambil quest atau hadiah | ⭐⭐⭐⭐⭐
 | Pengguna | Ada Friendship dengan NPC | apabila Playye rsering berinteraksi dengan NPC meningkatkan kemuangkinan NPC memberikan quest pada player | ⭐⭐⭐⭐
 | Pengguna | Melawan Mob/Monster  | bisa melakukan pertarungan dengan mob/monster dalam game | ⭐⭐⭐⭐⭐
-| Pengguna | Menaikan level | Player bisa menaikan level dengan mengalahkan monster Dan setiap naik level meningkatkan aspek-aspek tertentu dari karakter | ⭐⭐⭐⭐⭐
+| Pengguna | Menaikan level | Player bisa menaikan level dengan mendapatkan exp dari mengalahkan monster Dan menyelesaikan quest,setiap naik level meningkatkan aspek-aspek tertentu dari karakter | ⭐⭐⭐⭐⭐
 | Pengguna | Mempunyai stat | Setiap karakter memiliki setiap aspek kekuatan yang berbeda tergantung stat karakter yang dimiliki   | ⭐⭐⭐⭐⭐
 | Pengguna |  Mempunyai Job/Class | Player bisa memilih Class tertentu untuk karakternya | ⭐⭐⭐⭐
 | Pengguna | Job/class mempunyai tingkatan | Setiap Job/class mempunyai tingkatan yang berbeda tergnatung kelangkaan, evolusi dan kekuatan | ⭐⭐⭐⭐
@@ -60,6 +62,7 @@ Sebagai | Saya ingin bisa | Sehingga | Prioritas
 | Pengguna | Melakukan PvP  | Bisa bertarung dengan player lain  | ⭐⭐⭐⭐⭐
 | Pengguna | Melakukan Chat bisik | Bermaksud hanya chat dengan player tertentu| ⭐⭐⭐
 | Pengguna | Melakukan chat teriak | Bermaksud menChat semua player disekitar | ⭐⭐⭐
+| Pengguna | Melakukan Guild  | Bermaksud menChat semua player yang mempunyai guld yang sama | ⭐⭐⭐
 | Pengguna | Mendapat gold | Bisa mendapat gold dari hadiah quest, mengalahkan monster ,dan transaksi dengan player lain | ⭐⭐⭐⭐
 | Pengguna | Top up Gold | Player dapat membeli Gold ke admin | ⭐⭐⭐⭐⭐
 | Pengguna | Menjual item | Player bisa menjual item yang dia dapatkan di Market atau transaksi langsung dengan plyer lain | ⭐⭐⭐⭐
@@ -70,9 +73,9 @@ Sebagai | Saya ingin bisa | Sehingga | Prioritas
 | Pengguna | Melaporkan | Melaporkan ke admin apbila ada Bug atau player yang berbuat kecurangan | ⭐⭐⭐⭐
 | Pengguna | Forum chat | Semua player dapat berdiskusi dalam forum chat | ⭐⭐⭐
 | Pengguna | Membuat item | Dengan Job/class tertentu Dapat membuat item-item tertentu apabila telah memenuhi syarat | ⭐⭐⭐⭐
-| Pengguna |  |  | ⭐⭐⭐⭐⭐
-| Pengguna |  |  | ⭐⭐⭐⭐⭐
-| Pengguna |  |  | ⭐⭐⭐⭐⭐
+| Pengguna | Ada Main menu | game memiliki tampilan menu utama | ⭐⭐⭐⭐
+| Pengguna | Bisa Save data | Player bisa mensave perjalan terakhir mereka | ⭐⭐⭐⭐⭐
+| Pengguna | New game | Player dapat membuat karakter baru akan tetapi karakter lama di hapus | ⭐⭐⭐⭐
 | Pengguna |  |  | ⭐⭐⭐⭐⭐
 | Pengguna |  |  | ⭐⭐⭐⭐⭐
 | Pengguna |  |  | ⭐⭐⭐⭐⭐
@@ -81,12 +84,17 @@ Sebagai | Saya ingin bisa | Sehingga | Prioritas
 | Pengguna |  |  | ⭐⭐⭐⭐⭐
 | Pengguna |  |  | ⭐⭐⭐⭐⭐
 | Admin | Menerima Laporan | Menerima Report dari player | ⭐⭐⭐⭐⭐
-| Admin | Mengawasi | Mengawasi  para player | ⭐⭐⭐⭐⭐
+| Admin | Mengawasi | Mengawasi  para player | ⭐⭐⭐⭐
+| Admin | Membuat pengumuman | Admin akan memberikan pengumuman kepada para player di forum chat | ⭐⭐⭐
 | Admin |  |  | ⭐⭐⭐⭐⭐
 | Admin |  |  | ⭐⭐⭐⭐⭐
 | Admin |  |  | ⭐⭐⭐⭐⭐
 | Admin |  |  | ⭐⭐⭐⭐⭐
-| Admin |  |  | ⭐⭐⭐⭐⭐
+| Developer | Maintenance | Memperbaiki bug yang dilaporkan yang ditemukan, dan mengupdate ferforma game| ⭐⭐⭐⭐⭐
+| Developer |  |  | ⭐⭐⭐⭐⭐
+| Developer |  |  | ⭐⭐⭐⭐⭐
+| Developer |  |  | ⭐⭐⭐⭐⭐
+
 
 
 
@@ -95,7 +103,18 @@ Sebagai | Saya ingin bisa | Sehingga | Prioritas
 ```mermaid
 erDiagram
     Main_menu{
-        
+        String Start
+        String Options
+    }
+    Start{
+        String New_Game
+        String Continue
+        String back
+    }
+    Options{
+        String Volume
+        String Music
+        String Email_Player
     }
     
     Player{
@@ -154,15 +173,29 @@ erDiagram
        int ID_Player
        int Kordiant_terakhir_position_Player
        int Logout_time
+       int ID_save_data
     }
     Data_login{
         int ID_Player
        int Kordiant_terakhir_position_Player
        int Login_time
     }
+    "Guild/clan"{
+        String Nama_Guild
+        int ID_Player(anggota)
+        String Nickname_player(anggota)
+        Int ID_chat_Guild
+        String Chat_guild
+        
 
+    }
 
-
+    Main_menu ||..|| Start: "memilih start"
+    Main_menu ||..|| Options: "memilih options"
+    Data_login }|..|| Start: "login dari save data"
+    Data_logout }|..|| Start: "data disimpan disini"
+    Data_login ||..|| Start: "memilih new game"
+    Data_login ||..|| Player: "Player login"
     Player }o..o{ Player: Berteman
     Player }o..|{ Character: memilih
     Character }o..|{ "Job/class": mempunyai
@@ -189,7 +222,12 @@ erDiagram
     Player }o..|| Map: berpindah-pindah
     Player }o..|| Data_logout: Punya
     Player }o..|| Data_login: Punya
+    Player }|..o{ "Guild/clan": membuat
+    Player }|..o{ "Guild/clan": Bergabung
+    Chat_dengan_player_lain }o..|{ "Guild/clan": "diskusi dalam guild" 
     
+
+
 
 
 
@@ -198,7 +236,17 @@ erDiagram
 ## 4. Arsitektur Sistem
 
 Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
+```mermaid
+flowchart TD
+    subgraph ARSITEKTUR SISTEM
 
+    A[Datbase : MySQL] <--> B[Aplikasi Backend : Apache NetBEans,JAVA]
+    B --> C[Aplikasi web server: Apache Tomcat]
+    end
+    C<-->D{Aplikasi}
+    D-->E[PC, Computer]
+    D-->F[Android,IOS]
+```
 ## 5. Teknologi, Library, dan Framework
 
 bla bla bla
