@@ -36,11 +36,19 @@ Referensi:
 Sebagai | Saya ingin bisa | Sehingga | Prioritas
 ---|---|---|---
 | Pengguna | Mulai permainan | Permainan bisa dimulai  | ⭐⭐⭐⭐⭐
+| Pengguna | login | Memasuki permainan | ⭐⭐⭐⭐⭐
+| Pengguna | Logout | Keluar dari permainan  | ⭐⭐⭐⭐⭐
 | Pengguna | Desain karakter |  Bisa memiliki desain karakter yang beragam | ⭐⭐⭐⭐
 | Pengguna | Skill karakter | karakter memiliki skill khusunya masing masing | ⭐⭐⭐
+| Pengguna | Karakter bergerak | Karakter dapat bergerak dalam map | ⭐⭐⭐⭐⭐
+| Pengguna | Karakter mati | Player dapat merasakan kekalahan | ⭐⭐⭐⭐
+| Pengguna | Ada penalty kematian | Apabaila Karakter mati mungkin beberapa Item milik Player hilang | ⭐⭐⭐
+| Pengguna | Ada checkpoint | Apabila karakter mati akan respawn di desa terakhir | ⭐⭐⭐⭐⭐
+| Pengguna | Berpindah map | Player dapat berpindah pindah map kesatu dann yang lain | ⭐⭐⭐⭐
 | Pengguna | Menjelajahi map | Bisa mengexplore semua peta yang ada dalam game ini | ⭐⭐⭐⭐
 | Pengguna | Mendapat quest | Bisa menyelesaikan quest dan mendapat hadiah | ⭐⭐⭐⭐⭐
 | Pengguna | Player bisa melakukan interaksi dengan NPC | Bisa berinteraksi dengan NPC dalam mengambil quest atau hadiah | ⭐⭐⭐⭐⭐
+| Pengguna | Ada Friendship dengan NPC | apabila Playye rsering berinteraksi dengan NPC meningkatkan kemuangkinan NPC memberikan quest pada player | ⭐⭐⭐⭐
 | Pengguna | Melawan Mob/Monster  | bisa melakukan pertarungan dengan mob/monster dalam game | ⭐⭐⭐⭐⭐
 | Pengguna | Menaikan level | Player bisa menaikan level dengan mengalahkan monster Dan setiap naik level meningkatkan aspek-aspek tertentu dari karakter | ⭐⭐⭐⭐⭐
 | Pengguna | Mempunyai stat | Setiap karakter memiliki setiap aspek kekuatan yang berbeda tergantung stat karakter yang dimiliki   | ⭐⭐⭐⭐⭐
@@ -53,36 +61,42 @@ Sebagai | Saya ingin bisa | Sehingga | Prioritas
 | Pengguna | Melakukan Chat bisik | Bermaksud hanya chat dengan player tertentu| ⭐⭐⭐
 | Pengguna | Melakukan chat teriak | Bermaksud menChat semua player disekitar | ⭐⭐⭐
 | Pengguna | Mendapat gold | Bisa mendapat gold dari hadiah quest, mengalahkan monster ,dan transaksi dengan player lain | ⭐⭐⭐⭐
+| Pengguna | Top up Gold | Player dapat membeli Gold ke admin | ⭐⭐⭐⭐⭐
 | Pengguna | Menjual item | Player bisa menjual item yang dia dapatkan di Market atau transaksi langsung dengan plyer lain | ⭐⭐⭐⭐
 | Pengguna | Ada Market | Player dapat menjual langsung item mereka ke semua orang | ⭐⭐⭐
-| Pengguna |   |  | ⭐⭐⭐⭐⭐
-| Pengguna |   |  | ⭐⭐⭐⭐⭐
-| Pengguna |   |  | ⭐⭐⭐⭐⭐
-| Pengguna |   |  | ⭐⭐⭐⭐⭐
-| Pengguna |   |  | ⭐⭐⭐⭐⭐
-| Pengguna |   |  | ⭐⭐⭐⭐⭐
-| Pengguna |   |  | ⭐⭐⭐⭐⭐
-| Pengguna |   |  | ⭐⭐⭐⭐⭐
-| Pengguna |   |  | ⭐⭐⭐⭐⭐
-| Pengguna |   |  | ⭐⭐⭐⭐⭐
-| Pengguna |   |  | ⭐⭐⭐⭐⭐
-| Pengguna |   |  | ⭐⭐⭐⭐⭐
-| Pengguna |   |  | ⭐⭐⭐⭐⭐
-| Pengguna |   |  | ⭐⭐⭐⭐⭐
-| Pengguna |   |  | ⭐⭐⭐⭐⭐
-| Pengguna |   |  | ⭐⭐⭐⭐⭐
-| Pengguna |   |  | ⭐⭐⭐⭐⭐
-| Pengguna |   |  | ⭐⭐⭐⭐⭐
-| Pengguna |   |  | ⭐⭐⭐⭐⭐
+| Pengguna | Membuat party | Player dapat membentuk party untuk hunting monster ataupun menyelesaikan quest | ⭐⭐⭐⭐
+| Pengguna | Membentuk dan Bergabung ke Clan/Guild | Player dapat membentuk Clan atau Guild dengan tujuan tertentu  | ⭐⭐⭐⭐
+| Pengguna | Ada sistem pet | Player dapat memelihara pet untuk dibawa dalam hunting | ⭐⭐⭐⭐
+| Pengguna | Melaporkan | Melaporkan ke admin apbila ada Bug atau player yang berbuat kecurangan | ⭐⭐⭐⭐
+| Pengguna | Forum chat | Semua player dapat berdiskusi dalam forum chat | ⭐⭐⭐
+| Pengguna | Membuat item | Dengan Job/class tertentu Dapat membuat item-item tertentu apabila telah memenuhi syarat | ⭐⭐⭐⭐
+| Pengguna |  |  | ⭐⭐⭐⭐⭐
+| Pengguna |  |  | ⭐⭐⭐⭐⭐
+| Pengguna |  |  | ⭐⭐⭐⭐⭐
+| Pengguna |  |  | ⭐⭐⭐⭐⭐
+| Pengguna |  |  | ⭐⭐⭐⭐⭐
+| Pengguna |  |  | ⭐⭐⭐⭐⭐
+| Pengguna |  |  | ⭐⭐⭐⭐⭐
+| Pengguna |  |  | ⭐⭐⭐⭐⭐
+| Pengguna |  |  | ⭐⭐⭐⭐⭐
+| Pengguna |  |  | ⭐⭐⭐⭐⭐
+| Admin | Menerima Laporan | Menerima Report dari player | ⭐⭐⭐⭐⭐
+| Admin | Mengawasi | Mengawasi  para player | ⭐⭐⭐⭐⭐
+| Admin |  |  | ⭐⭐⭐⭐⭐
+| Admin |  |  | ⭐⭐⭐⭐⭐
+| Admin |  |  | ⭐⭐⭐⭐⭐
+| Admin |  |  | ⭐⭐⭐⭐⭐
+| Admin |  |  | ⭐⭐⭐⭐⭐
 
 
 
 ## 3. Struktur Data
 
-Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
-
 ```mermaid
 erDiagram
+    Main_menu{
+        
+    }
     
     Player{
         String  Nickname_player
@@ -101,7 +115,6 @@ erDiagram
     Chat_dengan_player_lain{
         int ID_Chat 
         String  Chat 
-
     }
     Skill{
         int ID_Skill
@@ -128,7 +141,25 @@ erDiagram
         String Nama_Item
         Int Harga_item
     }
-
+    Map{
+        int Id_Map
+        String Name_Map
+        int Kordiant_position_Player
+        int Kordiant_position_monster
+        int Kordiant_position_NPC
+        Int ID_Bangunan
+        String nama_Bangunanq
+    }
+    Data_logout{
+       int ID_Player
+       int Kordiant_terakhir_position_Player
+       int Logout_time
+    }
+    Data_login{
+        int ID_Player
+       int Kordiant_terakhir_position_Player
+       int Login_time
+    }
 
 
 
@@ -152,6 +183,12 @@ erDiagram
     Player }|..o{ Market: "Bisa membeli di" 
     Player }o..o{ Player: Transaksi
     Character }o..|| Skill: mempunyai
+    Player }o..|| Map: ada_dalam
+    NPC_Quest }o..|| Map: ada_dalam
+    Monster }o..|| Map: ada_dalam
+    Player }o..|| Map: berpindah-pindah
+    Player }o..|| Data_logout: Punya
+    Player }o..|| Data_login: Punya
     
 
 
